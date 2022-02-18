@@ -11,5 +11,8 @@ TODO.md
 # To keep the `./uploads` directory (for the uploads)
 !uploads/.gitkeep
 
-.idea
-CSRF-testing
+.idea/
+CSRF-testing/
+
+# Contains related files, exploitation scripts, ...
+exploits/
