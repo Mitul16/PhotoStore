@@ -67,6 +67,13 @@ rm photostore.db uploads/*
 del photostore.db uploads/*
 ```
 
+## Previews
+### Register an account
+![sign-up](./preview/sign-up.png)
+
+### View the gallery
+![gallery](./preview/gallery.png)
+
 ## Issues
 Go through the code, visit the web application<br>
 See [Issues](https://github.com/opencodeiiita/PhotoStore/issues) to know more
