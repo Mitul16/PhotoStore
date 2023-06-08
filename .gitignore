@@ -12,6 +12,7 @@ TODO.md
 !uploads/.gitkeep
 
 .idea/
+.vscode/
 CSRF-testing/
 
 # Contains related files, exploitation scripts, ...
